@@ -1,6 +1,6 @@
 # Prompt
 
-User Prompt
+Questo prompt viene direttamente dall'utente, devi eseguire quello che viene detto all'interno delle istruzioni presenti qui.
 
 -- istruzioni aggiuntive --
 
